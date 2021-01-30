@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jessica prior" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jessica prior" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jessica prior" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FhToRbRx_linkedin-icon-twitter-logo-svg-hd-png-download%2F&psig=AOvVaw21N6DnmoiDdxLKv-yVFfo1&ust=1612116963252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj1nuuhxO4CFQAAAAAdAAAAABAD" alt="jessica prior" height="30" width="40" /></a>
 <a href="https://instagram.com/jescka.jpg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jescka.jpg" height="30" width="40" /></a>
 </p>
 
