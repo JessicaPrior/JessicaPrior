@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jessica prior" target="blank"><img align="center" src="https://api.iconify.design/openmoji:linkedin.svg" alt="jessica prior" height="30" width="40" /></a>
-<a href="https://instagram.com/jescka.jpg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jescka.jpg" height="30" width="40" /></a>
+<a href="https://instagram.com/jescka.jpg" target="blank"><img align="center" src="https://api.iconify.design/raphael:instagram.svg?color=%239400D3" alt="jescka.jpg" height="30" width="40" /></a>
 </p>
 
 
