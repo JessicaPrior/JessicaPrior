@@ -1,6 +1,6 @@
 <h3 align="center">I'm Jessica Prior, a Full Stack developer!🔰</h3>
 
-- 🌱 I’m currently learning: **Python/Django/SQL**
+- 🌱 I’m currently learning: **Python/Django/SQL/PHP**
 
 - 💬 Ask me about: **Technologies, Animes, Mangás, Games!🎮📚**
 
