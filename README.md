@@ -1,8 +1,8 @@
 <h3 align="center">I'm Jessica Prior, a Full Stack developer!🔰</h3>
 
-- 🌱 I’m currently learning: **Python/Django/SQL/PHP**
+- 🌱 I’m currently learning: **React Native/Postgres**
 
-- 💬 Ask me about: **Technologies, Animes, Mangás, Games!🎮📚**
+- 💬 Ask me about: **Technologies, Animes, Mangás, Games, Doramas!🎮📚**
 
 - 📫 How to reach me: **jsscprior@gmail.com**
 
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jessica-prior-376797166" target="blank"><img align="center" src="https://api.iconify.design/openmoji:linkedin.svg" alt="jessica prior" height="35" width="35" /></a>
-<a href="https://instagram.com/jescka.jpg" target="blank"><img align="center" src="https://api.iconify.design/raphael:instagram.svg?color=%239400D3" alt="jescka.jpg" height="30" width="30" /></a>
 </p>
 
 
